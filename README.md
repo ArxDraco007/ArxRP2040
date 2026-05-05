@@ -1,2 +1,2 @@
 # ArxRP2040
-Making my own RP2040!!!!
+Making my own RP2040 Devboard!!!!

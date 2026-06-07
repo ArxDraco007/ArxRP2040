@@ -15,6 +15,8 @@ This project can be built upon, adding additional parts, extending it, and addin
 Follow the schematic and wire the PCB.
 Use the Image Converter in KiCad to convert your images to footprints to decorate your PCB.
 
+## Zine
+<img width="1304" height="1999" alt="zine" src="https://github.com/user-attachments/assets/2dc3cfa7-d0bc-42b4-9636-6012e294dc4c" />
 
 ## BOM 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |

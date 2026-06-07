@@ -5971,6 +5971,7 @@
 		(property "Value" "USB_C_Receptacle_USB2.0_14P"
 			(at 0 5.1 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "978df931-804e-402e-9921-ccc8646b889f")
 			(effects
 				(font

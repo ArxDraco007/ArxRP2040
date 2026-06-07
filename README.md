@@ -14,6 +14,7 @@ This project can be built upon, adding additional parts, extending it, and addin
 ## How to make it?
 Follow the schematic and wire the PCB.
 Use the Image Converter in KiCad to convert your images to footprints to decorate your PCB.
+Start by applying flux to the pads on the footprint where you'll be soldering. Tin one of the pads with a small amount of solder, then carefully place your component onto the footprint. Touch your iron to the tinned pad to reflow it and tack the component in place, then let go with your tweezers once it's sitting right. Move to the opposite pad and solder it properly to the component. Finally, go back to your first pad and add a bit more solder to make sure you've got a solid joint.
 
 ## Zine
 <img width="1304" height="1999" alt="zine" src="https://github.com/user-attachments/assets/2dc3cfa7-d0bc-42b4-9636-6012e294dc4c" />

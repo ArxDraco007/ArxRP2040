@@ -16,4 +16,4 @@ Capacitor 0.1uF 0402,"Decoupling (C2-C9, C11, C12, C17)",11,$0.55,https://robu.i
 Capacitor 10uF 0603,LDO bulk caps (C13 C14),2,$0.30,https://robu.in/product/10uf-10000nf-50v-capacitor-0603-smd-package-pack-of-5/,Robu
 Capacitor 33pF 0402,Crystal load caps (C15 C16),2,$0.20,https://robu.in/product/mc0402n330j500ct-murata-smd-multilayer-ceramic-capacitor-33-pf,Robu
 PCB 2-layer ENIG,"JLCPCB, 5 boards",5,$18.00,https://jlcpcb.com/,JLCPCB
-Total,,,,$24.30,,
+Total,,,,$24.30,

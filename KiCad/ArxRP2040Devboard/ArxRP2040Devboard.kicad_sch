@@ -13142,7 +13142,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Availability" "In Stock"
+		(property "AVAILABILITY" "In Stock"
 			(at 334.01 111.76 0)
 			(hide yes)
 			(show_name no)

@@ -18,7 +18,7 @@ Download the MicroPython .uf2 file for the RP2040 from micropython.org. Hold the
 Start by applying flux to the pads on the footprint where you'll be soldering. Tin one of the pads with a small amount of solder, then carefully place your component onto the footprint. Touch your iron to the tinned pad to reflow it and tack the component in place, then let go with your tweezers once it's sitting right. Move to the opposite pad and solder it properly to the component. Finally, go back to your first pad and add a bit more solder to make sure you've got a solid joint.
 
 ## Zine!
-<img width="1304" height="1999" alt="zine (1)" src="https://github.com/user-attachments/assets/ccc8973a-94c7-42e7-9ee1-4aedf576ab04" />
+<img width="1304" height="1999" alt="zine" src="https://github.com/user-attachments/assets/b44ef9c8-6f13-4293-b0b2-1dddfe8944a4" />
 
 
 ## BOM 
